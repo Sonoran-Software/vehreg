@@ -1,4 +1,4 @@
-name: "release"
+name: "canary release"
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   release:
-    name: "Release"
+    name: "Canary Release"
     runs-on: "ubuntu-latest"
 
     steps:

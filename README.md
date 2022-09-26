@@ -9,3 +9,7 @@
 
 - Copy `vehreg` folder to your `sonorancad/plugins` folder.
 - Modify configuration found in `CHANGEMEconfig_vehreg.lua` and copy to a `config_vehreg.lua` file.
+
+## Credits
+
+Thank you to [Jordan2139](https://github.com/Jordan2139) for their contribution creating this plugin ♥

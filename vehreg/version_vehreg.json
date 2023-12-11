@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "check_url": "https://raw.githubusercontent.com/jordan2139/vehreg/master/vehreg/version_vehreg.json",
     "download_url": "https://github.com/brentopc/vehreg/",
     "configVersion": "1.0",
